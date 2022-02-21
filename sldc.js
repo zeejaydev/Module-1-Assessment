@@ -19,3 +19,8 @@
     The first one is done for you. 
 */
 const planning = "This is the first step, in which the end goal of the software is determined and defined. Developers typically will see what systems are already in place, and determine what features will need to be added." 
+const analysisOfRequirements = "business rules, data models"
+const design = "Design the software"
+const implementation = "Code the software"
+const testingIntegration = "Test the software"
+const maintain = "Figure out maintenance, support, and installation"

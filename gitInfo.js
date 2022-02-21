@@ -10,7 +10,7 @@
 */
 
 //CODE HERE
-
+const gitDefinition = 'a powerfull command line, that does the same commands on any operating system (windows, mac, or linux)'
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable called 'gitHubDefinition'.  
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+const gitHubDefinition = 'a place where I can save, view, and modify code that was made by me or other people in my team, and see the history of changes that was made to it'
 //////////////////PROBLEM 3////////////////////
 /*
     Create a variable called 'gitInitDefinition'.  
@@ -26,7 +26,7 @@
 */
 
 //CODE HERE
-
+const gitInitDefinition = 'to start a new local repo on my computer'
 //////////////////PROBLEM 4////////////////////
 /*
     Create a variable called 'gitCloneDefinition'.  
@@ -34,7 +34,7 @@
 */
 
 //CODE HERE
-
+const gitCloneDefinition = 'to copy an existing repo to my computer'
 //////////////////PROBLEM 5////////////////////
 /*
     Create a variable called 'gitStatusDefinition'.  
@@ -42,6 +42,7 @@
 */
 
 //CODE HERE
+const gitStatusDefinition = 'to see the status of my current directory and the files in it, which files been modified and it they are tracked or not'
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -53,6 +54,8 @@
 */
 
 //CODE HERE
+const gitAddDefinition = 'to add the file i specified to be tracked'
+const gitAddCodev= ' git add . '
 
 //////////////////PROBLEM 7////////////////////
 /*
@@ -64,8 +67,8 @@
 */
 
 //CODE HERE
-
-
+const gitCommitDefinition = 'applying the changes to the files staging them'
+const gitCommitCode = ' git commit -m "initial commit" '
 //////////////////PROBLEM 8////////////////////
 /*
     Create a variable called 'gitPushDefinition'.  
@@ -73,3 +76,4 @@
 */
 
 //CODE HERE
+const gitPushDefinition = 'to upload the files from local repo to remote repo'
